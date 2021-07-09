@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.exe
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.deps.json
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.runtimeconfig.json
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.dll
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\ref\EmpleadoExamen3C.dll
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\bin\Debug\net5.0\EmpleadoExamen3C.pdb
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.dll
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\ref\EmpleadoExamen3C.dll
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.pdb
+C:\Users\CompuStore\source\repos\EmpleadoExamen3C\obj\Debug\net5.0\EmpleadoExamen3C.genruntimeconfig.cache
